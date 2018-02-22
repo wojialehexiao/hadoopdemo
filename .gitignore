@@ -12,3 +12,4 @@ logs
 .settings
 .idea
 *.iml
+dependency-reduced-pom.xml
